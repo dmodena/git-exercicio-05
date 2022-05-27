@@ -4,12 +4,15 @@ Exercício 05
 Este é um exercício colaborativo.
 
 O repositório atual possui a seguinte estrutura:
+```console
 .
 └── principal
     ├── a.txt
     └── b.txt
+```
 
 Crie uma nova branch chamada *funcao-a* e adicione um novo diretório com 3 arquivos, desta forma:
+```console
 .
 ├── funcao-a
 │   ├── a.txt
@@ -18,12 +21,14 @@ Crie uma nova branch chamada *funcao-a* e adicione um novo diretório com 3 arqu
 └── principal
     ├── a.txt
     └── b.txt
+```
 
 Salve a criação do diretório e dos três arquivos nesta nova branch em um único commit.
 
 Em seguida, procure um repositório de algum colega que já tenha feito os passos acima. Faça um *fork* deste repositório.
 
 Em seguida, crie uma nova branch chamada *funcao-b* a partir da branch *funcao-a* e adicione mais quatro arquivos em um novo diretório, desta forma:
+```console
 .
 ├── funcao-a
 │   ├── a.txt
@@ -37,6 +42,7 @@ Em seguida, crie uma nova branch chamada *funcao-b* a partir da branch *funcao-a
 └── principal
     ├── a.txt
     └── b.txt
+```
 
 Salve em um único commit a criação do novo diretório e dos quatro novos arquivos.
 
